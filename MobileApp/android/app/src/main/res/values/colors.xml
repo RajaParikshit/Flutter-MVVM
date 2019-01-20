@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#35B4C5</color>           <!--#3DE6FD-->
+    <color name="colorPrimaryLight">#A5CFF1</color>
+    <color name="colorPrimaryDark">#0D3656</color>
+    <color name="colorAccent">#f2da04</color>
+
+    <!-- Maps -->
+    <color name="colorMapCircle">#5606ECA9</color>
+
+    <color name="colorTransparent">#00ffffff</color>
+    <color name="colorRed">#F93737</color>
+    <color name="colorOrange">#FF5E0D</color>
+    <color name="colorYellow">#F1C412</color>
+    <color name="colorGreen">#2CD12C</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGrey">#797878</color>
+    <color name="colorLightGrey">#DADADA</color>
+    <color name="colorDarkGrey">#3b3b3b</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGreySemiTransparent">#80313435</color>
+
+</resources>
